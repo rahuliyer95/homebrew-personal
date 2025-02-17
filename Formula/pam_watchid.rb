@@ -1,8 +1,8 @@
 class PamWatchid < Formula
   desc "PAM plugin module that allows the Apple Watch to be used for authentication"
   homepage "https://github.com/rahuliyer95/pam-watchid"
-  url "https://github.com/rahuliyer95/pam-watchid/archive/v2.0.tar.gz"
-  sha256 "ac92759182eff4990e99354bbd20aedb9cdb7d56255cf0ae9fec32a3533c47b0"
+  url "https://github.com/rahuliyer95/pam-watchid/archive/v2.1.tar.gz"
+  sha256 "1b809ec3e9d4bf75a19836bebf3263de18c247d3b5647af0e02c173951aa3cea"
   head "https://github.com/rahuliyer95/pam-watchid.git"
 
 
